@@ -1,0 +1,7 @@
+
+build
+history
+out
+.gradle
+.idea
+*.iml

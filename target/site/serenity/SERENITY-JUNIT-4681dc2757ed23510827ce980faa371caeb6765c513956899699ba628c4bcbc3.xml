@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Como usuario ingreso a la pagina de mercado libre busco un producto," skipped="0" tests="1" time="27.81" timestamp="2023-05-08 12:56:49"><testcase name="Busqueda de producto lo agrega al carrito y crea cuenta en el sistema"><error message="Timed out after 2 seconds. Element not found&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.4.0', revision: 'e5c75ed026a'&#10;System info: host: 'DESKTOP-TUQK4LM', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.4.0', revision: 'e5c75ed026a'&#10;System info: host: 'DESKTOP-TUQK4LM', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-TUQK4LM', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-TUQK4LM', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-TUQK4LM', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-TUQK4LM', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown&#13;
+steps.HomeStep.CrearCuentaPersonal(HomeStep.java:40)&#13;
+definitions.MercadoLibreStepDefinition.crea_una_cuenta_con_su_respectiva_validacion_de_datos(MercadoLibreStepDefinition.java:30)&#13;
+✽.Crea una cuenta con su respectiva validacion de datos(file:///C:/Users/inselsa/Desktop/AUTOMATIZACION/com.co.hackathon.periferia/src/test/resources/features/RetoMercadoLibre.feature:10)&#13;
+</system-err></testcase></testsuite>
